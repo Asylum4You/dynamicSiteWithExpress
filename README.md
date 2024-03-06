@@ -1,9 +1,13 @@
-Dynamic Site with Express
+# Dynamic Site with Express
+
 This project is a dynamic website built with Node.js and Express, a popular web application framework for Node.js. The goal of this project is to create a website that can render dynamic content based on user input and server-side logic.
 
-Features
+# Features
+
 Dynamic Content Generation: The website generates content dynamically based on user input and server-side logic using Express and EJS templating engine.
+
 RESTful API: The project includes a RESTful API built with Express, allowing for seamless integration with other applications or services.
+
 Middleware and Routing: Express middleware and routing are used to handle various HTTP requests and responses, ensuring a smooth user experience.
 Error Handling: Robust error handling mechanisms are implemented to gracefully handle errors and provide meaningful feedback to users.
 Challenges Faced
