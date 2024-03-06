@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<%- include('partials/head') %>
+
+
+<body>
+    <%- include('partials/navbar') %>
+    <h1> Your Random Number Is: <%= rand %>
+    </h1>
+    <% if (rand % 2===0){ %>
+        <h2>That is an even number </h2>
+        <% } %>
+            <h3>
+                <%= rand%2===0 ? 'EVEN' :'ODD' %>
+            </h3>
+</body>
+
+</html>

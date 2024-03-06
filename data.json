@@ -1,0 +1,62 @@
+{
+    "soccer": {
+        "name": "soccer",
+        "subscribers": 8000000,
+        "description": "reddit about football",
+        "posts": [
+            {
+                "title": "Post name",
+                "author": "Post author",
+                "img": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2014/03/usatsi_7375715.jpg?w=1000&h=600&crop=1"
+            },
+            {
+                "title": "Post name",
+                "author": "Post author"
+            },
+            {
+                "title": "Post name",
+                "author": "Post author"
+            }
+        ]
+    },
+    "chicken": {
+        "name": "chicken",
+        "subscribers": 600000,
+        "description": "reddit about chicken",
+        "posts": [
+            {
+                "title": "Post name",
+                "author": "Post author",
+                "img": "https://www.shutterstock.com/image-vector/chicken-logo-template-260nw-1087423889.jpg"
+            },
+            {
+                "title": "Post name",
+                "author": "Post author"
+            },
+            {
+                "title": "Post name",
+                "author": "Post author"
+            }
+        ]
+    },
+    "vegetables": {
+        "name": "vegetables",
+        "subscribers": 330000,
+        "description": "reddit about vegetables",
+        "posts": [
+            {
+                "title": "Post name",
+                "author": "Post author",
+                "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRemk0pOj3avWb06RvabQarkPJ-BUaZPIT9UjLWrwM6xL8TyRbj"
+            },
+            {
+                "title": "Post name",
+                "author": "Post author"
+            },
+            {
+                "title": "Post name",
+                "author": "Post author"
+            }
+        ]
+    }
+}
